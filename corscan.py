@@ -14,7 +14,7 @@ def main():
 \____/\____/_/ |_|/____/\___/\__,_/_/ /_/ 
                                           
 {Fore.LIGHTMAGENTA_EX}      ╔═════════════════════════╗
-      ║{Fore.LIGHTWHITE_EX} Tool Created by MrEmpy  {Fore.LIGHTMAGENTA_EX}║
+      ║{Fore.LIGHTWHITE_EX} Tool Created by Brosck  {Fore.LIGHTMAGENTA_EX}║
       ║{Fore.LIGHTWHITE_EX} Version 1.0             {Fore.LIGHTMAGENTA_EX}║
       ╚═════════════════════════╝
         ''')
