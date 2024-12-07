@@ -23,7 +23,7 @@
 # Tutorial
 
 ```
-$ git clone https://github.com/MrEmpy/CORScan.git
+$ git clone https://github.com/Brosck/CORScan.git
 $ cd CORScan
 $ chmod +x install.sh
 $ sudo ./install.sh
